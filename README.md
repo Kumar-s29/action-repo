@@ -1,7 +1,6 @@
 # action-repo
 
-# Initial commit for webhook testing
+This repository is used to generate GitHub events (Push, Pull Request, Merge)
+for the webhook receiver assignment.
 
-# test
-
-# test 2
+It triggers events that are captured by the Flask webhook application.
